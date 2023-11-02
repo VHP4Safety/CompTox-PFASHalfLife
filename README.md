@@ -2,6 +2,8 @@
 
 This repository accompanies the manuscript "A Machine Learning Model to Estimate Toxicokinetic Half-lives of Per- and Polyfluoro-alkyl Substances (PFAS) in Multiple Species" which is currently submitted to a journal for peer-review.
 
+** Now published as: https://www.mdpi.com/2305-6304/11/2/98 **
+
 The major steps of the workflow for this study included training dataset assembly, predictor set assembly, model construction, and model application.
 
 All analyses were performed using the freely available R statistical software platform (v4.3.0)
